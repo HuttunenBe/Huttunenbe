@@ -4,11 +4,10 @@
 
 
 💡 I love problem solving, tackling new challenges and building things from scratch. 
-🚀 I believe sharing knowledge and helping others is the key to success. 
-🌸 What I've learned so far: Javascript, CSS and HTMl. 
+🚀 I believe sharing knowledge and helping others is the key to success.
 
-
-🐍 🌸 Currently learning React, PHP and Python. 
+🌸 What I've learned so far: Javascript, CSS and HTMl.  
+🐍 What I'm currently learning React, PHP and Python. 
 
 
 
