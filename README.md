@@ -7,7 +7,7 @@
 🚀 I believe sharing knowledge and helping others is the key to success.
 
 🌸 What I've learned so far: Javascript, CSS and HTML.  
-🐍 What I'm currently learning React, PHP and Python. 
+🐍 I'm currently learning React, PHP and Python. 
 
 
 
