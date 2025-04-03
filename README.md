@@ -1,6 +1,6 @@
 ## Code.. Lot's of code!
 
-![My Image](https://github.com/HuttunenBe/Huttunenbe/blob/a039254be56ec228d106e790fb5625e6eddcaf50/Hi!%20I%E2%80%99m%20(7).png?raw=true)
+![Profile Image](https://github.com/HuttunenBe/Huttunenbe/blob/4b0825da06ab54378481eb55f2e0070065dc306b/profilegithub.png?raw=true)
 
 
 
