@@ -1,4 +1,4 @@
-## Code 👋 Lot's of code!
+## Code.. Lot's of code!
 
 ![Cream Aesthetic Business Twitter Header](https://github.com/user-attachments/assets/64d37547-091d-4f91-8227-7b1db55108e3)
 
