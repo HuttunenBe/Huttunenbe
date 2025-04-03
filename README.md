@@ -1,6 +1,7 @@
 ## Code.. Lot's of code!
 
-![Cream Aesthetic Business Twitter Header](https://github.com/user-attachments/assets/64d37547-091d-4f91-8227-7b1db55108e3)
+![Beniitta](https://github.com/HuttunenBe/Huttunenbe/blob/f6b3ad30188c44b5865b1ee09c6940d580db859e/Beniitta%20(1).png?raw=true)
+
 
 
 👩‍💻 Hi! My name is Beniitta. I'm a **Full Stack Web Developer** student at **Business College Helsinki**. 💻 Currently living my dream of becoming a web developer and working hard to make it happen.
