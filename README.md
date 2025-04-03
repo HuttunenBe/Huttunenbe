@@ -4,7 +4,7 @@
 
 
 
-👩‍💻 Hi! My name is Beniitta. I'm a **Full Stack Web Developer** student at **Business College Helsinki**. 💻 Currently living my dream of becoming a web developer and working hard to make it happen.
+👩‍💻 My name is Beniitta Huttunen. I'm a **Full Stack Web Developer** student at **Business College Helsinki**. 💻 Currently living my dream of becoming a web developer and working hard to make it happen.
 
 💡 I love problem-solving, tackling new challenges and building things from scratch. I enjoy long complex projects that require patience and persistence. Getting stuck on tough challenges and finally cracking them is what keeps me going and makes me wanna learn more. 
 
