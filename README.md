@@ -1,4 +1,4 @@
-## Code.. Lot's of code!
+## Code. Lot's of code!
 
 ![Bio Picture](https://github.com/HuttunenBe/Huttunenbe/blob/85bed22456c2ecaf44c21751765d4880016c07e9/bioPicture.png?raw=true)
 
