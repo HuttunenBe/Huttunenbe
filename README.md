@@ -15,7 +15,8 @@ Hi! 👩‍💻 My name is Beniitta Huttunen. I'm a **Full Stack Web Developer**
 
 Looking forward to hearing from you!
 
-[![text](https://img.shields.io/badge/LinkedIn-800080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myprofile)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myprofile) [![text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/myprofile)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuttunenBe&layout=compact&theme=radical)
