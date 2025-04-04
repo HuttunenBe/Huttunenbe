@@ -29,9 +29,6 @@ Hi! 👩‍💻 My name is **Beniitta Huttunen**. I'm a **Full Stack Web Develop
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuttunenBe&layout=compact&theme=radical)
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=HuttunenBe)
 
 
 
