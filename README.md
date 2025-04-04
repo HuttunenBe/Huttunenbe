@@ -10,14 +10,14 @@ Hi! 👩‍💻 My name is Beniitta Huttunen. I'm a **Full Stack Web Developer**
 
 🚀 I believe sharing knowledge and helping others is the key to success. My background in social services taught me that we build the world together and kindness is what makes it a better place.
 
-🌸 What I've learned so far: Javascript, CSS and HTML.  
-🐍 I'm currently learning React, PHP and Python. 
+🌸 What I've learned so far:** Javascript, CSS and HTML.  
+🐍 I'm currently learning** React, PHP and Python. 
 
-Looking forward to hearing from you!
+#### Happy to hear from you:
 
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myprofile) [![text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/myprofile)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myprofile) 
 
-
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuttunenBe&layout=compact&theme=radical)
 
