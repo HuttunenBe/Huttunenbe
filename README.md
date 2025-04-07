@@ -17,7 +17,8 @@ Javascript, CSS and HTML
 
 #### Feel free to contact me on LinkedIn (Finnish/English)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/beniitta-huttunen-5b339432a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beniitta-huttunen-5b339432a)
+
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuttunenBe&layout=compact&theme=radical)
