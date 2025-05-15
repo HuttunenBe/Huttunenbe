@@ -1,6 +1,6 @@
 ## Code. Lot's of code.
 
-![Bio Picture](https://github.com/HuttunenBe/Huttunenbe/blob/85bed22456c2ecaf44c21751765d4880016c07e9/bioPicture.png?raw=true)
+![Bio Picture](https://github.com/HuttunenBe/Huttunenbe/blob/01c1102a644aeb0d200f82693befc75b70bea15f/1.png)
 
 Hi! 👩‍💻 My name is **Beniitta**. I'm a **Full Stack Web Developer** student at **Business College Helsinki**. 💻 Currently living my dream of becoming a web developer and working hard to make it happen.
 
