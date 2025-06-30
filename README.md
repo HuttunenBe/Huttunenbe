@@ -9,9 +9,9 @@ Hi! 👩‍💻 My name is **Beniitta**. I'm a **Full Stack Web Developer** stud
 🚀 I believe sharing knowledge and helping others is the key to success. My background in social services taught me that we build the world together and kindness is what makes it a better place.
 
 🌸 What I've learned so far: 
-Javascript, CSS and HTML
+Javascript, CSS, HTML, React, PHP, Laravel
 
-🐍 I'm currently learning: React, PHP and Python
+🐍 I'm currently learning: React and Laravel
 
 ---
 
