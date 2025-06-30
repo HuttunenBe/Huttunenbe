@@ -11,7 +11,7 @@ Hi! 👩‍💻 My name is **Beniitta**. I'm a **Full Stack Web Developer** stud
 🌸 What I've learned so far: 
 Javascript, CSS, HTML, React, PHP, Laravel
 
-🐍 I'm currently learning: React and Laravel
+🐍 I'm currently focusing on: React and Laravel
 
 ---
 
