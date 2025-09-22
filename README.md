@@ -11,7 +11,7 @@ Hi! 👩‍💻 My name is **Beniitta**. I'm a **Full Stack Web Developer** stud
 🌸 What I've learned so far: 
 Javascript, CSS, HTML, React, PHP, Laravel, MySQL
 
-🐍 I'm currently focusing on: Unit testing, revisiting JavaScript basics, Drupal, CI/CD and TypeScript.
+🐍 I'm currently focusing on: Unit testing, revisiting JavaScript basics, Drupal, CI/CD, Python and TypeScript.
 
 ---
 
