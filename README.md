@@ -21,9 +21,7 @@ Javascript, CSS, HTML, React, PHP, Laravel, MySQL, Strapi, TypeScript, Next.js
 
 
 
----
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuttunenBe&layout=compact&theme=radical)
 
 
 
