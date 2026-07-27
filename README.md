@@ -17,7 +17,7 @@ Javascript, CSS, HTML, React, PHP, Laravel, MySQL, Strapi, TypeScript, Next.js
 
 #### Feel free to contact me on LinkedIn (Finnish/English)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beniitta-huttunen-5b339432a)  [![Portfolio](https://img.shields.io/badge/Portfolio-004D4D?style=for-the-badge&logoColor=white&labelColor=004D4D)](https://www.beniitta-huttunen.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beniitta-huttunen-5b339432a)  [![Portfolio](https://img.shields.io/badge/Portfolio-004D4D?style=for-the-badge&logoColor=white&labelColor=004D4D)](https://www.beniittahuttunen.com/)
 
 
 
