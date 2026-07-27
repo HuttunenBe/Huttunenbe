@@ -2,16 +2,15 @@
 
 ![Bio Picture](https://github.com/HuttunenBe/Huttunenbe/blob/main/githubHeader.png?raw=true)
 
-Hi! 👩‍💻 My name is **Beniitta**. I'm a Junior **Full Stack Web Developer** bringing together technlogy and people focused mindset. 
+Hi! 👩‍💻 My name is **Beniitta**. I'm a Junior **Full Stack Web Developer** combining technical skills with a people-focused mindset.
 
 💡 I love problem solving, tackling new challenges and building things from scratch. Getting stuck on tough challenges and finally finding solutions is what keeps me going and makes me want to learn more.
 
 🚀 I believe sharing knowledge and helping others is the key to success. My background in social services taught me that we build the world together and kindness is what makes it a better place.
 
-🌸 Technologies I’ve worked with:
-JavaScript • TypeScript • React • Next.js • HTML • CSS • PHP • Laravel • MySQL • Strapi
+🌸 Technologies I’ve worked with: JavaScript, TypeScript, React, Next.js, PHP, Laravel, MySQL, HTML, CSS & Strapi
 
-💻 Currently focusing on: Going back to JavaScript fundamentals ans Codewars.
+💻 Currently focusing on: Strengthening my JavaScript fundamentals and Codewars.
 
 ---
 
