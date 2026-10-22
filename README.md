@@ -1,7 +1,5 @@
 ## Code. Lot's of code.
 
-![Bio Picture](https://github.com/HuttunenBe/Huttunenbe/blob/main/githubHeader.png?raw=true)
-
 Hi! 👩‍💻 My name is **Beniitta**. I'm a Junior **Full-Stack Web Developer** combining technical skills with a people-focused mindset.
 
 💡 I love problem solving, tackling new challenges and building things from scratch. Getting stuck on tough challenges and finally finding solutions is what keeps me going and makes me want to learn more.
