@@ -1,6 +1,6 @@
 ## Code. Lot's of code.
 
-![Github banner](/githubBanner.png) 
+![Github banner](/githubBannerSmall.png) 
 
 Hi! My name is **Beniitta**. I'm a Junior **Full-Stack Web Developer** combining technical skills with a people-focused mindset.
 
